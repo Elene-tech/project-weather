@@ -108,3 +108,7 @@ h1 {
   flex-wrap: wrap;
   justify-content: right;
 }
+footer {
+  margin-left: 460px;
+  font-size: larger;
+}
