@@ -1,0 +1,259 @@
+h2 {
+  color: gray;
+  padding: 50px 100px;
+  margin: 0 auto;
+  text-align: center;
+}
+.card {
+  width: 60%;
+  margin: 0 auto;
+  border: 2px solid rgb(123, 125, 129);
+}
+.card-body-1 {
+  border: 2px solid rgb(123, 125, 129);
+  padding-left: 12px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+.flex-container-days-week {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.flex-container-wednesday-line1 {
+  display: flex;
+  flex-direction: row;
+}
+.flex-container-wednesday {
+  display: flex;
+  flex-direction: row;
+}
+.wed {
+  flex-wrap: wrap;
+  width: 40px;
+  background: white;
+}
+.flex-container-wed-sunny {
+  display: flex;
+  width: 90%;
+  flex-direction: row;
+  background: white;
+  padding-left: 40px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.wed-temp-big {
+  font-weight: 700;
+  font-size: xx-large;
+}
+.wed-temp-small {
+  font-weight: 200;
+  font-size: 18px;
+}
+.flex-container-wed-description {
+  display: flex;
+  flex-direction: row;
+  width: 500px;
+  background: white;
+  font-size: larger;
+  font-weight: 500;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.flex-container-wed-humidity {
+  display: flex;
+  width: 30px;
+  flex-wrap: wrap;
+}
+.flex-item-humidity {
+  font-weight: 200;
+  font-size: 14px;
+  justify-content: center;
+}
+
+.card-body-2 {
+  border: 2px solid rgb(123, 125, 129);
+  margin-top: 10px;
+  padding-left: 12px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+.flex-container-days-week-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.flex-container-thu-line2 {
+  display: flex;
+  flex-direction: row;
+}
+.flex-container-thu {
+  display: flex;
+  flex-direction: row;
+}
+.thu {
+  flex-wrap: wrap;
+  width: 40px;
+  background: white;
+}
+.flex-container-thu-notsunny {
+  display: flex;
+  width: 90%;
+  flex-direction: row;
+  background: white;
+  padding-left: 40px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.thu-temp-big {
+  font-weight: 700;
+  font-size: xx-large;
+}
+.thu-temp-small {
+  font-weight: 200;
+  font-size: 18px;
+}
+.flex-container-thu-description {
+  display: flex;
+  flex-direction: row;
+  width: 500px;
+  background: white;
+  font-size: larger;
+  font-weight: 500;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.flex-container-thu-humidity {
+  display: flex;
+  width: 30px;
+  flex-wrap: wrap;
+}
+.flex-item-humidity {
+  font-weight: 200;
+  font-size: 14px;
+  justify-content: center;
+}
+.card-body-3 {
+  border: 2px solid rgb(123, 125, 129);
+  margin-top: 10px;
+  padding-left: 12px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+.flex-container-days-week-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.flex-container-fri-line3 {
+  display: flex;
+  flex-direction: row;
+}
+.flex-container-fri {
+  display: flex;
+  flex-direction: row;
+}
+.fri {
+  flex-wrap: wrap;
+  width: 38px;
+  background: white;
+}
+.flex-container-fri-rain {
+  display: flex;
+  width: 90%;
+  flex-direction: row;
+  background: white;
+  padding-left: 40px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.fri-temp-big {
+  font-weight: 700;
+  font-size: xx-large;
+}
+.fri-temp-small {
+  font-weight: 200;
+  font-size: 18px;
+}
+.flex-container-fri-description {
+  display: flex;
+  flex-direction: row;
+  width: 500px;
+  background: white;
+  font-size: larger;
+  font-weight: 500;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.flex-container-fri-humidity {
+  display: flex;
+  width: 30px;
+  flex-wrap: wrap;
+}
+.flex-item-humidity {
+  font-weight: 200;
+  font-size: 14px;
+  justify-content: center;
+}
+.card-body-4 {
+  border: 2px solid rgb(123, 125, 129);
+  margin-top: 10px;
+  padding-left: 12px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+.flex-container-days-week-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.flex-container-sat-line4 {
+  display: flex;
+  flex-direction: row;
+}
+.flex-container-sat {
+  display: flex;
+  flex-direction: row;
+}
+.sat {
+  flex-wrap: wrap;
+  width: 42px;
+  background: white;
+}
+.flex-container-sat-norain {
+  display: flex;
+  width: 90%;
+  flex-direction: row;
+  background: white;
+  padding-left: 40px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.sat-temp-big {
+  font-weight: 700;
+  font-size: xx-large;
+}
+.sat-temp-small {
+  font-weight: 200;
+  font-size: 18px;
+}
+.flex-container-sat-description {
+  display: flex;
+  flex-direction: row;
+  width: 500px;
+  background: white;
+  font-size: larger;
+  font-weight: 500;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.flex-container-sat-humidity {
+  display: flex;
+  width: 30px;
+  flex-wrap: wrap;
+}
+.flex-item-humidity {
+  font-weight: 200;
+  font-size: 14px;
+  justify-content: center;
+}

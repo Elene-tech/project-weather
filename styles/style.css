@@ -1,0 +1,110 @@
+h1 {
+  color: rgb(102, 98, 98);
+  text-align: left;
+  padding-top: 40px;
+  margin-left: 165px;
+}
+.col-9 {
+  display: block;
+  margin: 0 auto;
+  padding: 12px;
+}
+
+.flex-container {
+  border: 2px solid rgb(123, 125, 129);
+  width: 50%;
+  border-radius: 5px;
+  margin: 15px 165px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 12px 18px;
+}
+
+.city {
+  color: brown;
+  font-weight: 700;
+  font-size: x-large;
+}
+.location {
+  margin: 5px 1px 5px;
+  background: green;
+  border-radius: 1px;
+  color: white;
+}
+.big-temp {
+  font-weight: 700;
+  font-size: 1.5pc;
+  color: black;
+  margin-right: 2px;
+}
+.big-temp-celcius {
+  font-weight: 700;
+  font-size: larger;
+  margin-right: 5px;
+  margin-left: 2px;
+}
+
+.date {
+  font-weight: 700;
+  font-size: x-large;
+}
+.card {
+  width: 50%;
+  margin-left: 165px;
+  border: 2px solid rgb(123, 125, 129);
+}
+.flex-container-details {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.time {
+  font-weight: 200;
+  font-size: small;
+}
+.shade {
+  padding-right: -1px;
+}
+.temp {
+  font-weight: 700;
+}
+.flex-container-inside {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.clo {
+  width: 100px;
+}
+.temp-high {
+  font-size: 60px;
+}
+.celcius {
+  font-size: 20px;
+  margin-left: 5px;
+}
+.listing {
+  list-style: none;
+}
+.other {
+  list-style: none;
+}
+.colour {
+  color: rgba(255, 174, 0, 0.708);
+}
+.flex-container-bootom {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.flex-container-link {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: right;
+}
